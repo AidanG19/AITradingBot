@@ -21,7 +21,7 @@ To get started with the AI Trading Bot:
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/yourusername/aitradingbot.git
+git clone [https://github.com/yourusername/aitradingbot.git](https://github.com/AidanG19/AITradingBot.git)
 Navigate to the project directory:
 bash
 Copy code
